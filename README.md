@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://your-custom-banner-url.jpg" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/thewiseguy-tamim/thewiseguy-tamim/main/ban.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Md. Tamim Islam</h1>
