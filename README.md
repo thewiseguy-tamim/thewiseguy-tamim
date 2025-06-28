@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Md. Tamim Islam</h1>
-<p align="center"><strong>Full‑stack Developer | Cloud Enthusiast | Tech Explorer</strong></p>
+<p align="center"><strong>Full‑stack Developer | Tech Explorer</strong></p>
 <p align="center">I build scalable web applications with intuitive UIs and robust backends. My vision is to bridge technology and accessibility through clean code and meaningful products.</p>
 
 <!-- SOCIAL LINKS -->
