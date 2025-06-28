@@ -1,43 +1,13 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Tamim Islam</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Your+Professional+Banner)
+- 🔭 I’m currently working on [HomeSnap](https://home-snapx.vercel.app/)
 
-I'm [Your Official Name], a passionate [your profession, e.g., Web Developer] from Bangladesh with 180 contributions in the last year. I’m dedicated to creating impactful web solutions and exploring new technologies. Welcome to my GitHub!
+- 👯 I’m looking to collaborate on [EventPro](https://eventpro-4059.onrender.com/)
 
-## 🔭 What I Do
-I specialize in developing web applications and tools, such as HTML-based projects and data-driven solutions. My work focuses on building user-friendly interfaces and contributing to open-source projects. I enjoy coding and sharing my learning journey.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## 🛠️ Technologies I Work With
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-
-## 📊 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thewiseguy-tamim&show_icons=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewiseguy-tamim&layout=compact&theme=radical" />
-
-## 📌 Pinned Projects
-
-### 🚀 [eventpro]
-An HTML-based project showcasing [brief description, e.g., event management interface]. Built with HTML.  
-🔗 [Live Demo](#) | 📖 [README](https://github.com/thewiseguy-tamim/eventpro/blob/main/README.md)
-
-### 🌍 [tamim_islam]
-A [brief description, e.g., personal project showcasing web skills]. Built with [technologies, e.g., HTML, CSS, JavaScript].  
-🔗 [Live Demo](#) | 📖 [README](https://github.com/thewiseguy-tamim/tamim_islam/blob/main/README.md)
-
-### ⚙️ [HouseHold-Service]
-A [brief description, e.g., service-related web application]. Built with [technologies, e.g., HTML, JavaScript].  
-🔗 [Live Demo](#) | 📖 [README](https://github.com/thewiseguy-tamim/HouseHold-Service/blob/main/README.md)
-
-## 📫 Connect With Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 🐦 X: [Your X Handle](https://x.com/yourhandle)
-- 🌐 Website: [Your Portfolio Website](https://yourportfolio.com)
-
----
-
-*Last updated: 05:52 PM +06, June 28, 2025*  
-*Inspired by [MartinHeinz/MartinHeinz](https://github.com/MartinHeinz/MartinHeinz)*
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
