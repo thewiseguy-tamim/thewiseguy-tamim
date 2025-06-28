@@ -41,7 +41,7 @@
 <!-- Project 1 -->
 <p align="center">
   <a href="https://home-snapx.vercel.app/" target="_blank">
-    <img src="https://github.com/thewiseguy-tamim/HomeSnapx/raw/main/Project1.png" alt="HomeSnapx" width="100%" style="border-radius: 12px;" />
+    <img src="https://raw.githubusercontent.com/thewiseguy-tamim/thewiseguy-tamim/main/project1.png" alt="HomeSnapx" width="100%" style="border-radius: 12px;" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@
 <!-- Project 2 -->
 <p align="center">
   <a href="https://eventpro-4059.onrender.com/" target="_blank">
-    <img src="https://github.com/thewiseguy-tamim/eventpro/raw/main/Project2.png" alt="EventPro" width="100%" style="border-radius: 12px;" />
+    <img src="https://raw.githubusercontent.com/thewiseguy-tamim/thewiseguy-tamim/main/Project2.png" alt="EventPro" width="100%" style="border-radius: 12px;" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@
 <!-- Project 3 -->
 <p align="center">
   <a href="https://cocktails-psi-blue.vercel.app/" target="_blank">
-    <img src="https://github.com/thewiseguy-tamim/project-2/raw/main/project3.png" alt="Cocktail Finder" width="100%" style="border-radius: 12px;" />
+    <img src="https://raw.githubusercontent.com/thewiseguy-tamim/thewiseguy-tamim/main/project3.png" alt="Cocktail Finder" width="100%" style="border-radius: 12px;" />
   </a>
 </p>
 
