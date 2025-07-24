@@ -39,12 +39,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thewiseguy-tamim&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewiseguy-tamim&theme=blue_navy&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thewiseguy-tamim&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats for thewiseguy-tamim" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewiseguy-tamim&theme=blue_navy&layout=compact&hide_border=true" alt="Top languages used by thewiseguy-tamim" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thewiseguy-tamim&theme=blue_navy&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thewiseguy-tamim&theme=blue_navy&hide_border=true" alt="GitHub streak stats for thewiseguy-tamim" />
+  <br>
+  <em>Note: Stats may load slowly or be unavailable due to API limits. Check back later.</em>
 </p>
 
 ---
