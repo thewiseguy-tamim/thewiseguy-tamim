@@ -63,12 +63,28 @@
 
 <!-- Project 1 -->
 <p align="center">
+  <a href="https://petnest-eta.vercel.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/thewiseguy-tamim/thewiseguy-tamim/main/project3.png" alt="PetNest" width="100%" style="border-radius: 12px;" />
+  </a>
+</p>
+
+<h3 align="center"><a href="https://petnest-eta.vercel.app/">PetNest</a></h3>
+<p align="center">A comprehensive Django-based platform with user authentication, payment processing, and real-time messaging capabilities.</p>
+<p align="center">
+  <a href="https://petnest-eta.vercel.app/">🔗 Live Demo</a> • 
+  <a href="https://github.com/thewiseguy-tamim/petnest">📁 GitHub</a>
+</p>
+
+---
+
+<!-- Project 2 -->
+<p align="center">
   <a href="https://home-snapx.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/thewiseguy-tamim/thewiseguy-tamim/main/project1.png" alt="HomeSnapx" width="100%" style="border-radius: 12px;" />
   </a>
 </p>
 
-<h3 align="center"><a href="https://home-snapx.vercel.app/">🏡 HomeSnapx</a></h3>
+<h3 align="center"><a href="https://home-snapx.vercel.app/">HomeSnapx</a></h3>
 <p align="center">A responsive real-estate snapshot web app using React, Supabase, and Tailwind CSS.</p>
 <p align="center">
   <a href="https://home-snapx.vercel.app/">🔗 Live Demo</a> • 
@@ -77,34 +93,18 @@
 
 ---
 
-<!-- Project 2 -->
+<!-- Project 3 -->
 <p align="center">
-  <a href="https://eventpro-4059.onrender.com/" target="_blank">
+  <a href="https://event-three-inky.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/thewiseguy-tamim/thewiseguy-tamim/main/Project2.png" alt="EventPro" width="100%" style="border-radius: 12px;" />
   </a>
 </p>
 
-<h3 align="center"><a href="https://eventpro-4059.onrender.com/">📅 EventPro</a></h3>
+<h3 align="center"><a href="https://event-three-inky.vercel.app/">EventPro</a></h3>
 <p align="center">An advanced event management platform built with Django REST Framework and PostgreSQL.</p>
 <p align="center">
-  <a href="https://eventpro-4059.onrender.com/">🔗 Live Demo</a> • 
+  <a href="https://event-three-inky.vercel.app/">🔗 Live Demo</a> • 
   <a href="https://github.com/thewiseguy-tamim/eventpro">📁 GitHub</a>
-</p>
-
----
-
-<!-- Project 3 -->
-<p align="center">
-  <a href="https://cocktails-psi-blue.vercel.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/thewiseguy-tamim/thewiseguy-tamim/main/project3.png" alt="Cocktail Finder" width="100%" style="border-radius: 12px;" />
-  </a>
-</p>
-
-<h3 align="center"><a href="https://cocktails-psi-blue.vercel.app/">🍹 Cocktail Finder</a></h3>
-<p align="center">Explore drink recipes using TheCocktailDB API with React and Tailwind CSS.</p>
-<p align="center">
-  <a href="https://cocktails-psi-blue.vercel.app/">🔗 Live Demo</a> • 
-  <a href="https://github.com/thewiseguy-tamim/project-2">📁 GitHub</a>
 </p>
 
 ---
